@@ -1,4 +1,4 @@
-# Git Commit Automation with Backdated Commits
+# git commit automation with backdated commits
 
 A Python script that creates 1-3 commits per day from a specified start date to today, ensuring all commits are backdated with sequential timestamps. This is perfect for generating a realistic Git history or simulating daily contributions for a GitHub streak.
 
