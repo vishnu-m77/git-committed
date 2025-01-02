@@ -14,8 +14,8 @@ A Python script that creates 1-3 commits per day from a specified start date to 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Shogun89/fancy_job
-cd fancy_job
+git clone https://github.com/Caparino/git_committed
+cd git_committed
 ```
 
 2. Run the script to generate commits:
