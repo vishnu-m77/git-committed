@@ -4,7 +4,7 @@ A Python script that creates 1-3 commits per day from a specified start date to 
 
 ## Features
 
-- Automatically generates backdated commits from a specified start date to today, default start date is Jan 1st, 2023.
+- Automatically generates backdated commits from a specified start date to today, default start date is Jan 1st, 2024.
 - Ensures 2-3 commits per day with sequential timestamps to maintain a clean Git history.
 - Modifies a file (`changes.txt`) to include unique changes for each commit.
 - Commits include timestamps set using `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE`.
