@@ -31,3 +31,5 @@ The script will schedule and commit the change to git. You can modify the script
 By running this you will be able get a fancy streak on your github profile and get a job.
 
 ![How to get a job](get_a_job.jpg)
+
+Inspired by ![@Shogun89's fancyjob](https://github.com/Shogun89/fancy_job)
