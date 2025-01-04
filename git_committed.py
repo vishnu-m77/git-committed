@@ -4,6 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 import random
 
+START_DATE = datetime(2023, 1, 1)
 
 def calculate_days_between(start_date):
     """
@@ -76,7 +77,7 @@ def create_commits(start_date, file_name, commit_message):
 
 def main():
     # Start date
-    start_date = datetime(2023, 1, 1)
+    start_date = START_DATE
 
     # File to modify
     file_name = "changes.txt"
