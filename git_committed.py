@@ -31,7 +31,7 @@ def create_commits(start_date, file_name, commit_message):
     for day in range(num_days + 1):  # Include today
         current_date = start_date + timedelta(days=day)
 
-        # Randomly decide the number of commits for the day (2-3)
+        # Randomly decide the number of commits for the day (1-3)
         num_commits = random.randint(1, 3)
 
         # Generate random times for commits within the day
