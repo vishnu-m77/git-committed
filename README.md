@@ -31,10 +31,10 @@ python git_committed.py
 git remote -v
 
 git remote remove <remote-name>
-eg. git remote remove https://github.com/Caparino/git_committed.git
+#eg. git remote remove https://github.com/Caparino/git_committed.git
 
 git remote add <remote-name> <remote-url>
-eg. git remote add https://github.com/your_account/git_committed.git
+#eg. git remote add https://github.com/your_account/git_committed.git
 
 git push -u origin main
 ```
