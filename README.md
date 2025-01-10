@@ -26,6 +26,19 @@ cd git_committed
 python git_committed.py
 ```
 
+3. Add and push to your own repo since forks don't count for contributions:
+```bash
+git remote -v
+
+git remote remove <remote-name>
+eg. git remote remove https://github.com/Caparino/git_committed.git
+
+git remote add <remote-name> <remote-url>
+eg. git remote add https://github.com/your_account/git_committed.git
+
+git push -u origin main
+```
+
 ## Usage
 
 The script will create 1-3 commits a day at random times for every day from your start_date (Jan 1, 2024 by default) to today.
