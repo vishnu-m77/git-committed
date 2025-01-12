@@ -3,6 +3,7 @@
 A Python script that creates 1-3 commits daily, at random times of the day, from a specified start date to today. This is perfect for generating a realistic Git history or simulating daily contributions for a GitHub streak.
 
 Inspired by [@Shogun89's fancy_job](https://github.com/Shogun89/fancy_job)
+Forked from [@Caparino's repo](https://github.com/Caparino/git_committed)
 
 ## Features
 
